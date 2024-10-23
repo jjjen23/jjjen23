@@ -1,13 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:92FE9D&height=200&section=header&text=Jen's%20Github&fontColor=FFFFFF&fontSize=50&animation=twinkling&reversal=true&fontAlign=20&fontAlignY=30)
 
-<div>
-<div align='center'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjen23&langs_count=6&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjen23&show_icons=true&theme=radical)
-</div>
-<div align='center'>
+
 
 ## Skills
 ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
