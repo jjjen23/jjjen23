@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjen23)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={jjjen23}&theme=blue-green
+
 ## Skills
 ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
