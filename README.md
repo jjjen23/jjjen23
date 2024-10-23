@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:92FE9D&height=200&section=header&text=Jen's%20Github&fontColor=FFFFFF&fontSize=50&animation=twinkling&reversal=true&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:92FE9D&height=200&section=header&text=Jen's%20Github&fontColor=FFFFFF&fontSize=50&animation=twinkling&reversal=true&fontAlign=0&fontAlignY=50)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjen23)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjen23&show_icons=true&theme=radical)
