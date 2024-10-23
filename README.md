@@ -1,3 +1,4 @@
+<div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:92FE9D&height=200&section=header&text=Jen's%20Github&fontColor=FFFFFF&fontSize=50&animation=twinkling&reversal=true&fontAlign=20&fontAlignY=30)
 
 <div align='center'>
@@ -31,7 +32,7 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:92FE9D&height=200&section=footer&reversal=true)
-
+</div>
 
 <!--
 **jjjen23/jjjen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
