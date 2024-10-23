@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:92FE9D&height=200&section=header&text=Jen's%20Github&fontColor=FFFFFF&fontSize=50&animation=twinkling&reversal=true&fontAlign=20&fontAlignY=30)
 
-
+<p align='center'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjen23&langs_count=6&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjen23&show_icons=true&theme=radical)
 
 <div align='center'>
