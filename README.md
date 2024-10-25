@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:64b3f4&height=200&section=header&text=Jen's%20Github✈️&fontColor=ffffff&fontSize=60&animation=twinkling&reversal=true&fontAlign=30&fontAlignY=40)
 
 
-
 # 💪 Skills
 ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -25,7 +24,7 @@
 ![js](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 
+## 🎨 My Github Stats
 <div align='center'>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjen23&langs_count=6&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
