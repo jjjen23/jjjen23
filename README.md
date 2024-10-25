@@ -24,7 +24,7 @@
 ![js](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 🎨 My Github Stats
+# 🎨 My Github Stats
 <div align='center'>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjen23&langs_count=6&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
