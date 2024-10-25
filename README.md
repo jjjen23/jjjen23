@@ -33,8 +33,8 @@
 
 # 📈 My Data Analysis & ML Projects
 ##### [1️⃣ Glacier-Volume-Analysis-Prediction-Using-ESN](https://github.com/jjjen23/Glacier-Volume-Analysis-Prediction-Using-ESN)
-2️⃣
-3️⃣
+##### [2️⃣AI-Financial-Time-Series-Big-Data-Analysis-and-Prediction-System](https://github.com/jjjen23/AI-Financial-Time-Series-Big-Data-Analysis-and-Prediction-System)
+##### [3️⃣Busan-Inundation-Factor-Analysis](https://github.com/Busan-Inundation-Factor-Analysis)
 # 🗃️ My Dynamic Web Project Using React
 1️⃣
 2️⃣
